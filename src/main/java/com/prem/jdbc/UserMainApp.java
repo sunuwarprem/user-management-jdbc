@@ -7,6 +7,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
+//This is jdbc demo
 public class UserMainApp {
 
     public User getUserInfo(String action) {
