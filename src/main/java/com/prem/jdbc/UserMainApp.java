@@ -8,6 +8,7 @@ import java.util.Date;
 import java.util.Scanner;
 
 //This is jdbc demo
+//I am learning jdbc from scratch
 public class UserMainApp {
 
     public User getUserInfo(String action) {
