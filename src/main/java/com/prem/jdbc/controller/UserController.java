@@ -8,7 +8,7 @@ import com.prem.jdbc.service.UserServiceImpl;
 import java.util.List;
 import java.util.Scanner;
 
-
+//this is user controller
 public class UserController {
 
     public static void main(String[] args) {

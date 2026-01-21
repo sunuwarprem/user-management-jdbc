@@ -1,5 +1,7 @@
 package com.prem.jdbc.util;
 
+//this is query util class
+//all queried resides in this class
 public class QueryUtil {
 
     private QueryUtil() {
